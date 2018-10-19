@@ -1,0 +1,114 @@
+p {
+	
+}
+
+h1 {
+	font-family: serif;
+}
+
+h2{
+	font-family: sans-serif;
+}
+
+p{
+	font-family: monospace;
+}
+
+body {
+	font-family: "Arial", "Helvetica", sans-serif;
+	
+}
+p{
+	text-align:justify;
+}
+
+p{
+	line-height: 15px;
+	letter-spacing: 3px;
+	word-spacing: 5px;
+	text-indent: 30px;
+}
+
+p{
+	padding: 10px 20px 15px 5px;
+}
+p{
+	margin: 0 auto;
+}
+
+body{
+	margin-left: auto;
+	margin-right: auto;
+	width: 940px;
+}
+
+#centro-distribuicao{
+	margin-left: auto;
+	margin-right: auto;
+	width: 550px;
+}
+#cabecalho{
+	color:white;
+	text-align:center;
+}
+
+#rodape{
+	color:#777;
+	margin: 30px 0;
+	padding:30px 0;
+
+	
+}
+#rodape img {
+	margin-right: 30 px;
+	vertical-align: middle;
+	
+}
+
+.sacola{
+	background-image: url(../img/sacola.png);
+	background-repeat: no-repeat;
+	background-position: top right;
+	
+	margin: 0 auto;
+	margin-right:15px;
+	font-size: 14px;
+	padding-right: 45px;
+	text-align: right;
+	width: 140px;
+	padding-top: 8px;
+}
+.menu-opcao ul {
+	font-size: 15px;
+	margin-right:15px;
+}
+.menu-opcao a {
+	color: #003366;
+	
+}
+
+.menu-opcao ul li{
+	
+	display: inline;
+	margin-left: 30px;
+}
+
+
+.container{
+	margin-right: 0 auto;
+	margin-left: 0 auto;
+	
+}
+
+.container{
+	margin: 0 auto;
+	width:945px;
+
+	
+}
+.logotipo{
+	position: relative;
+	top: 20px;
+	left: 15px;
+	
+}

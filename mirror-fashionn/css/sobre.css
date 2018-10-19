@@ -1,0 +1,45 @@
+body{
+	color:#333333;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h1{
+	background-color: grey;
+	height:35px;
+}
+h2{
+	border-bottom: 2px solid #333333;
+}
+
+figure{
+	background-color: #f2EDED;
+	border: 1px solid #ccc;
+	text-align:center;
+}
+figcaption{
+		font-style: italic;
+}
+
+p::first-letter {
+font-weight: bold;
+}
+
+h1 + p {
+text-indent: 0;
+}
+
+p::first-line {
+font-variant: small-caps;
+}
+
+p {
+	font-size:15px;
+}
+
+
+
+@font-face {
+font-family: "Minha Fonte";
+src: url("minhafonte.ttf");
+}
+
+
